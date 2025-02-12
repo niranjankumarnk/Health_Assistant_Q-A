@@ -1,0 +1,11 @@
+oci
+oracle-ads
+langchain
+langsmith
+pydantic
+streamlit
+pypdf
+faiss-cpu
+python-multipart
+chromadb
+langchain-community
